@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `3m` sample updated in sync
 
-> **Sample on GitHub** · `UKOIL_3m.csv` (18,483 rows, `2026-07-01` -> `2026-09-02`, 1.49 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/ukoil)** — **1,770,615** `3m` rows (full `1m`: 5,237,943), **11 timeframes**, `2010-02-01` -> `2026-09-02`.
+> **Sample on GitHub** · `UKOIL_3m.csv` (18,480 rows, `2026-07-01` -> `2026-09-02`, 1.49 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/ukoil)** — **1,770,615** `3m` rows (full `1m`: 5,228,763), **11 timeframes**, `2010-02-01` -> `2026-09-02`.
 
 ## Download sample
 
@@ -45,7 +45,7 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | Brent Crude Oil · Commodities | Brent Crude Oil · Commodities |
 | Timeframes | `3m` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 3m rows | 18,483 | **1,770,615** |
+| 3m rows | 18,480 | **1,770,615** |
 | Size | 1.49 MB | full ZIP on [getdata.finance](https://getdata.finance/datasets/ukoil) |
 | Period | `2026-07-01` -> `2026-09-02` | `2010-02-01` -> `2026-09-02` |
 | File | `UKOIL_3m.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/ukoil) |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`UKOIL_3m.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-01T17:27:00+00:00 | 71.325 | 71.366 | 71.31 | 71.365 | 89 |
-| 2026-07-01T17:30:00+00:00 | 71.365 | 71.376 | 71.324 | 71.325 | 170 |
-| 2026-07-01T17:33:00+00:00 | 71.325 | 71.346 | 71.294 | 71.334 | 173 |
 | 2026-07-01T17:36:00+00:00 | 71.334 | 71.35 | 71.294 | 71.306 | 205 |
 | 2026-07-01T17:39:00+00:00 | 71.306 | 71.326 | 71.234 | 71.259 | 197 |
+| 2026-07-01T17:42:00+00:00 | 71.259 | 71.295 | 71.221 | 71.256 | 273 |
+| 2026-07-01T17:45:00+00:00 | 71.256 | 71.296 | 71.209 | 71.226 | 275 |
+| 2026-07-01T17:48:00+00:00 | 71.226 | 71.246 | 71.175 | 71.186 | 162 |
 
 **Last rows**
 
